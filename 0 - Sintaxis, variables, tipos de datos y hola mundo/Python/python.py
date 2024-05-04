@@ -8,7 +8,7 @@ varias
 lineas
 """
 
-#En python se usa snakecase, todo minúscula y cada palabra se separa por un guion bajo.
+#En python se usa snake_case, todo minúscula y cada palabra se separa por un guion bajo.
 
 mi_variable = 12
 mi_string_variable = "Strig"
@@ -33,3 +33,6 @@ print(type(flotante))
 print(type(boolean))
 print(type(cadena_de_texto))
 print(type(otra_cadena_de_texto))
+
+#Para ejecutar un archivo Python desde consola 
+#python3 archivo.py
